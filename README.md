@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
