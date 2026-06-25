@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rahul-2005-git/Leetcode/tree/master/0001-two-sum) |
+| [0057-insert-interval](https://github.com/Rahul-2005-git/Leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
