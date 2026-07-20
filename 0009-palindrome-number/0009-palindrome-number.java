@@ -1,6 +1,6 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        System.out.println(x);
+        // System.out.println(x);
 
         // if(x==121){
         // return true;
