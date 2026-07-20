@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul-2005-git/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Rahul-2005-git/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Rahul-2005-git/Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Matrix
 |  |
 | ------- |
