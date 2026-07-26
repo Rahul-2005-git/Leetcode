@@ -1,4 +1,13 @@
 class Solution {
+    private void reverse(int[] nums, int left, int right) {
+    while (left < right) {
+        int temp = nums[left];
+        nums[left] = nums[right];
+        nums[right] = temp;
+        left++;
+        right--;
+    }
+}
     public void nextPermutation(int[] nums) {
         if(nums.length<2) return;
         int n=nums.length;
@@ -23,13 +32,13 @@ class Solution {
         }
       
         if(i<0){
-            Arrays.sort(nums);
+           reverse(nums, 0, n - 1);
         }else{
             int temp=nums[i];
             nums[i]=nums[max];
             nums[max]=temp;
 
-            Arrays.sort(nums,i+1,n);
+            reverse(nums, i + 1, n - 1);
         }
 
     }
