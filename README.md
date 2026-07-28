@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rahul-2005-git/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Rahul-2005-git/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Rahul-2005-git/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Rahul-2005-git/Leetcode/tree/master/0392-is-subsequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rahul-2005-git/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0295-find-median-from-data-stream](https://github.com/Rahul-2005-git/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Rahul-2005-git/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Rahul-2005-git/Leetcode/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/Rahul-2005-git/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rahul-2005-git/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rahul-2005-git/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul-2005-git/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Rahul-2005-git/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
