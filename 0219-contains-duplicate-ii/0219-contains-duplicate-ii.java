@@ -8,7 +8,7 @@ class Solution {
                 set.remove(nums[j]);
                 j++;
             }
-            System.out.println(i+" "+j);
+        
             if(set.contains(nums[i])) return true;
             set.add(nums[i]);
         }
