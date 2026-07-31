@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Rahul-2005-git/Leetcode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Rahul-2005-git/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Rahul-2005-git/Leetcode/tree/master/0645-set-mismatch) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Rahul-2005-git/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Rahul-2005-git/Leetcode/tree/master/0392-is-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Rahul-2005-git/Leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Rahul-2005-git/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rahul-2005-git/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rahul-2005-git/Leetcode/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/Rahul-2005-git/Leetcode/tree/master/0881-boats-to-save-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rahul-2005-git/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Rahul-2005-git/Leetcode/tree/master/0383-ransom-note) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Quickselect
 |  |
 | ------- |
