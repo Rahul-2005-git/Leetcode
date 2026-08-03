@@ -8,25 +8,22 @@ class MyStack {
     }
     
     public void push(int x) {
-        queue.offer(x);
+         queue.offer(x);
+
+        int size = queue.size();
+        while (size > 1) {
+            queue.offer(queue.poll());
+            size--;
+        }
     }
     
     public int pop() {
-        int size=queue.size();
-        for(int i=0;i<size-1;i++){
-            queue.offer(queue.poll());
-        }
+        
         return queue.poll();
     }
     
     public int top() {
-        int size=queue.size();
-        for(int i=0;i<size-1;i++){
-            queue.offer(queue.poll());
-        }
-        int temp=queue.poll();
-        queue.offer(temp);
-        return temp;
+        return queue.peek();
         
     }
     
