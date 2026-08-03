@@ -190,6 +190,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rahul-2005-git/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Rahul-2005-git/Leetcode/tree/master/0071-simplify-path) |
+| [0225-implement-stack-using-queues](https://github.com/Rahul-2005-git/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rahul-2005-git/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Memoization
@@ -229,6 +230,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rahul-2005-git/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rahul-2005-git/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Rahul-2005-git/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
@@ -254,5 +256,6 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rahul-2005-git/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rahul-2005-git/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
