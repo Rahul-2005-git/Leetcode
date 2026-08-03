@@ -32,6 +32,7 @@
 | [0645-set-mismatch](https://github.com/Rahul-2005-git/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Rahul-2005-git/Leetcode/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Rahul-2005-git/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -53,6 +54,7 @@
 | [0496-next-greater-element-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Rahul-2005-git/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Rahul-2005-git/Leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -156,6 +158,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahul-2005-git/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Rahul-2005-git/Leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Rahul-2005-git/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rahul-2005-git/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -258,4 +261,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rahul-2005-git/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rahul-2005-git/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
