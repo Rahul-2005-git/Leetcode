@@ -56,6 +56,7 @@
 | [0496-next-greater-element-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Rahul-2005-git/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Rahul-2005-git/Leetcode/tree/master/0645-set-mismatch) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Rahul-2005-git/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -103,6 +104,7 @@
 | [0441-arranging-coins](https://github.com/Rahul-2005-git/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahul-2005-git/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Rahul-2005-git/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1185-day-of-the-week](https://github.com/Rahul-2005-git/Leetcode/tree/master/1185-day-of-the-week) |
 | [2485-find-the-pivot-integer](https://github.com/Rahul-2005-git/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -314,4 +316,8 @@
 | [0112-path-sum](https://github.com/Rahul-2005-git/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Rahul-2005-git/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Rahul-2005-git/Leetcode/tree/master/0404-sum-of-left-leaves) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Rahul-2005-git/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
