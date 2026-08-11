@@ -1,6 +1,6 @@
 # Write your MySQL query statement below
 select p.product_id, 
-coalesce
+ifnull
 (
     round(
         sum(p.price*u.units)/sum(u.units),2)
