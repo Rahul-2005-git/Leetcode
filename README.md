@@ -360,6 +360,7 @@
 | [1068-product-sales-analysis-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/Rahul-2005-git/Leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Rahul-2005-git/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Rahul-2005-git/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Rahul-2005-git/Leetcode/tree/master/1683-invalid-tweets) |
