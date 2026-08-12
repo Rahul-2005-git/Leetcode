@@ -34,6 +34,7 @@
 | [0704-binary-search](https://github.com/Rahul-2005-git/Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Rahul-2005-git/Leetcode/tree/master/0733-flood-fill) |
 | [0881-boats-to-save-people](https://github.com/Rahul-2005-git/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0994-rotting-oranges](https://github.com/Rahul-2005-git/Leetcode/tree/master/0994-rotting-oranges) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rahul-2005-git/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -100,6 +101,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Rahul-2005-git/Leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Rahul-2005-git/Leetcode/tree/master/0994-rotting-oranges) |
 ## Math
 |  |
 | ------- |
@@ -317,6 +319,7 @@
 | [0226-invert-binary-tree](https://github.com/Rahul-2005-git/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Rahul-2005-git/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/Rahul-2005-git/Leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Rahul-2005-git/Leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul-2005-git/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
