@@ -28,8 +28,8 @@ left join Movies m
 on mr.movie_id=m.movie_id
 left join users u
 on mr.user_id=u.user_id
--- where month(mr.created_at)=2 and year(mr.created)=2020
-where mr.created_at >= '2020-02-01' AND mr.created_at <= '2020-02-29'
+where month(mr.created_at)=2 and year(mr.created_at)=2020
+-- where mr.created_at >= '2020-02-01' AND mr.created_at <= '2020-02-29'
 group by m.movie_id
 
 ) t2
