@@ -42,6 +42,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rahul-2005-git/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rahul-2005-git/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Rahul-2005-git/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Rahul-2005-git/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rahul-2005-git/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Rahul-2005-git/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
