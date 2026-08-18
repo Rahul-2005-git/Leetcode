@@ -367,6 +367,7 @@
 | [0182-duplicate-emails](https://github.com/Rahul-2005-git/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Rahul-2005-git/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Rahul-2005-git/Leetcode/tree/master/0196-delete-duplicate-emails) |
+| [0511-game-play-analysis-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/Rahul-2005-git/Leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Rahul-2005-git/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Rahul-2005-git/Leetcode/tree/master/0577-employee-bonus) |
