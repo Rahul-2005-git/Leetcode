@@ -52,6 +52,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Rahul-2005-git/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Rahul-2005-git/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Rahul-2005-git/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Rahul-2005-git/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Rahul-2005-git/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Rahul-2005-git/Leetcode/tree/master/0242-valid-anagram) |
@@ -77,6 +78,7 @@
 | [0071-simplify-path](https://github.com/Rahul-2005-git/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Rahul-2005-git/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Rahul-2005-git/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Rahul-2005-git/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Rahul-2005-git/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Rahul-2005-git/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Rahul-2005-git/Leetcode/tree/master/0344-reverse-string) |
@@ -262,6 +264,7 @@
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Rahul-2005-git/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Rahul-2005-git/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rahul-2005-git/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Rahul-2005-git/Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -403,4 +406,8 @@
 | [1934-confirmation-rate](https://github.com/Rahul-2005-git/Leetcode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Rahul-2005-git/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Rahul-2005-git/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Rahul-2005-git/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
