@@ -16,12 +16,12 @@ class Solution {
                 arr2.add(nums[i]);
             }
         }
-        
+        arr1.addAll(arr2);
         
       int [] res =new int[nums.length];
     int i=0;
       for(int num:arr1)res[i++]=num;
-      for(int num:arr2)res[i++]=num;
+      
       return res;
 
 
