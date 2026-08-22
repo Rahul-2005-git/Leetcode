@@ -48,6 +48,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rahul-2005-git/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rahul-2005-git/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3708-longest-fibonacci-subarray](https://github.com/Rahul-2005-git/Leetcode/tree/master/3708-longest-fibonacci-subarray) |
 ## Hash Table
 |  |
 | ------- |
