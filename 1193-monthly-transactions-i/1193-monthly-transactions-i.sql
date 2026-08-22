@@ -2,10 +2,7 @@
 SELECT 
     DATE_FORMAT(trans_date, '%Y-%m') AS month,country,
     COUNT(*) AS trans_count, 
-    sum(case
-    when state='approved' then 1
-    else 0
-    end
+    sum( state='approved' 
     )
     as approved_count,
 
@@ -16,5 +13,6 @@ SELECT
     else 0
     end
     ) as approved_total_amount
+
 FROM Transactions 
-GROUP BY DATE_FORMAT(trans_date, '%Y-%m') , country;
+GROUP BY month , country;
