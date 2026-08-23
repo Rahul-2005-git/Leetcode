@@ -31,7 +31,7 @@ class Solution {
 
         }
 
-            if(lq==rq && rs==ls)return false;
+            // if(lq==rq && rs==ls)return false;
 
         int q=rq-lq;
         int s=rs-ls;
