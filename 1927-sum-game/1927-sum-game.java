@@ -9,7 +9,7 @@ class Solution {
         j++;
         }
 
-        int turn=1;
+     
         int lq=0;
         int rq=0;
         int rs=0,ls=0;
@@ -21,15 +21,21 @@ class Solution {
             }
 
             ls+=nums[i];
-        }
-        for(int i=n/2;i<n;i++){
-            if(nums[i]>10){ 
-                rq++;
-                nums[i]=0;
-                }
-                rs+=nums[i];
 
+             if(nums[i+n/2]>10){ 
+                rq++;
+                nums[i+n/2]=0;
+                }
+                rs+=nums[i+n/2];
         }
+        // for(int i=n/2;i<n;i++){
+        //     if(nums[i]>10){ 
+        //         rq++;
+        //         nums[i]=0;
+        //         }
+        //         rs+=nums[i];
+
+        // }
 
             // if(lq==rq && rs==ls)return false;
 
