@@ -93,6 +93,7 @@
 | [0383-ransom-note](https://github.com/Rahul-2005-git/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Rahul-2005-git/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Rahul-2005-git/Leetcode/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/Rahul-2005-git/Leetcode/tree/master/0412-fizz-buzz) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rahul-2005-git/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1927-sum-game](https://github.com/Rahul-2005-git/Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -127,6 +128,7 @@
 | [0258-add-digits](https://github.com/Rahul-2005-git/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/Rahul-2005-git/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/Rahul-2005-git/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Rahul-2005-git/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahul-2005-git/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -288,6 +290,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Rahul-2005-git/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Rahul-2005-git/Leetcode/tree/master/0412-fizz-buzz) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rahul-2005-git/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
