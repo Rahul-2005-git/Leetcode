@@ -35,8 +35,8 @@ class Solution {
 
         int q=rq-lq;
         int s=rs-ls;
-        if(q>0 && s>0)return true;
-        if(q<0 && s<0 )return true;
+        // if(q>0 && s>0)return true;
+        // if(q<0 && s<0 )return true;
         // if(s<0)s=-s;
         // if(q<0)q=-q;
 
