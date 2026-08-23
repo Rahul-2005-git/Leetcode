@@ -92,6 +92,7 @@
 | [0392-is-subsequence](https://github.com/Rahul-2005-git/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Rahul-2005-git/Leetcode/tree/master/0394-decode-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rahul-2005-git/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1927-sum-game](https://github.com/Rahul-2005-git/Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -126,6 +127,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahul-2005-git/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rahul-2005-git/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1185-day-of-the-week](https://github.com/Rahul-2005-git/Leetcode/tree/master/1185-day-of-the-week) |
+| [1927-sum-game](https://github.com/Rahul-2005-git/Leetcode/tree/master/1927-sum-game) |
 | [2485-find-the-pivot-integer](https://github.com/Rahul-2005-git/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -221,6 +223,7 @@
 | [0055-jump-game](https://github.com/Rahul-2005-git/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Rahul-2005-git/Leetcode/tree/master/0134-gas-station) |
 | [0881-boats-to-save-people](https://github.com/Rahul-2005-git/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1927-sum-game](https://github.com/Rahul-2005-git/Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
@@ -425,4 +428,8 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Rahul-2005-git/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Rahul-2005-git/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
