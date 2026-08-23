@@ -39,6 +39,7 @@
 | [0733-flood-fill](https://github.com/Rahul-2005-git/Leetcode/tree/master/0733-flood-fill) |
 | [0881-boats-to-save-people](https://github.com/Rahul-2005-git/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/Rahul-2005-git/Leetcode/tree/master/0994-rotting-oranges) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rahul-2005-git/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -107,6 +108,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Rahul-2005-git/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Rahul-2005-git/Leetcode/tree/master/0704-binary-search) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Rahul-2005-git/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Rahul-2005-git/Leetcode/tree/master/0994-rotting-oranges) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Rahul-2005-git/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -197,6 +200,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahul-2005-git/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Rahul-2005-git/Leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Rahul-2005-git/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rahul-2005-git/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -262,6 +266,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rahul-2005-git/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Rahul-2005-git/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
