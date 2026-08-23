@@ -37,10 +37,10 @@ class Solution {
         int s=rs-ls;
         if(q>0 && s>0)return true;
         if(q<0 && s<0 )return true;
-        if(s<0)s=-s;
-        if(q<0)q=-q;
+        // if(s<0)s=-s;
+        // if(q<0)q=-q;
 
-        if(s==9*((q+1)/2)){
+        if(s + 9 * (q / 2) == 0){
             if(q%2==0)return false;
         }
 
