@@ -23,6 +23,7 @@
 | [0134-gas-station](https://github.com/Rahul-2005-git/Leetcode/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Rahul-2005-git/Leetcode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Rahul-2005-git/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rahul-2005-git/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -127,6 +128,7 @@
 | [0009-palindrome-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Rahul-2005-git/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rahul-2005-git/Leetcode/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/Rahul-2005-git/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Rahul-2005-git/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/Rahul-2005-git/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -316,6 +318,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rahul-2005-git/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Rahul-2005-git/Leetcode/tree/master/0258-add-digits) |
 ## Union-Find
 |  |
@@ -397,6 +400,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rahul-2005-git/Leetcode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Database
 |  |
@@ -455,4 +459,16 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Rahul-2005-git/Leetcode/tree/master/1927-sum-game) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rahul-2005-git/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rahul-2005-git/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rahul-2005-git/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
