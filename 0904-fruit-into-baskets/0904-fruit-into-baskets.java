@@ -5,9 +5,9 @@ class Solution {
         int j=0;
         int res=0;
 
-        for(int i=0;i<fruits.length;i++){
+        for(int n:fruits){
 
-            map.put(fruits[i],map.getOrDefault(fruits[i],0)+1);
+            map.put(n,map.getOrDefault(n,0)+1);
 
             
                 while(map.size()>2){
