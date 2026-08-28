@@ -50,6 +50,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rahul-2005-git/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/Rahul-2005-git/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rahul-2005-git/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rahul-2005-git/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -145,6 +146,7 @@
 | [1185-day-of-the-week](https://github.com/Rahul-2005-git/Leetcode/tree/master/1185-day-of-the-week) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rahul-2005-git/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1927-sum-game](https://github.com/Rahul-2005-git/Leetcode/tree/master/1927-sum-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/Rahul-2005-git/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -328,6 +330,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Rahul-2005-git/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Rahul-2005-git/Leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Union-Find
 |  |
 | ------- |
@@ -487,4 +490,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rahul-2005-git/Leetcode/tree/master/0022-generate-parentheses) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
