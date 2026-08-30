@@ -117,6 +117,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Rahul-2005-git/Leetcode/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/Rahul-2005-git/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Rahul-2005-git/Leetcode/tree/master/0704-binary-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
@@ -143,6 +144,7 @@
 | [0441-arranging-coins](https://github.com/Rahul-2005-git/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahul-2005-git/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/Rahul-2005-git/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rahul-2005-git/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1185-day-of-the-week](https://github.com/Rahul-2005-git/Leetcode/tree/master/1185-day-of-the-week) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rahul-2005-git/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -199,6 +201,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Rahul-2005-git/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Rahul-2005-git/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Rahul-2005-git/Leetcode/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/Rahul-2005-git/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/Rahul-2005-git/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rahul-2005-git/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
