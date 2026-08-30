@@ -15,22 +15,9 @@ class Solution {
                 maxi=i;
             }
         }
-        System.out.println(min+" "+mini);
-        System.out.println(max+" "+maxi);
-        System.out.println(nums.length);
+      
         int res=nums.length;
-        // if(mini+1<=nums.length/2){
-        //     res=mini+1;
-        //     if(maxi+1<=nums.length/2)return Math.max(maxi+1,res);
-            
-        //     return res+nums.length-maxi;
-        // }
-        //  if(mini+1>nums.length/2){
-        //     res=nums.length-mini;
-        //     if(maxi+1>res/2)return Math.max(nums.length-maxi,res);
-            
-        //     return res+maxi+1;
-        // }
+        
 
         res=Math.min(mini+1+nums.length-maxi, res);
         res=Math.min(maxi+1+nums.length-mini,res);
