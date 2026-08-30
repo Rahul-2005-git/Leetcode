@@ -137,6 +137,7 @@
 | [0009-palindrome-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Rahul-2005-git/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rahul-2005-git/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Rahul-2005-git/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Rahul-2005-git/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Rahul-2005-git/Leetcode/tree/master/0258-add-digits) |
@@ -236,6 +237,7 @@
 | [0045-jump-game-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rahul-2005-git/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rahul-2005-git/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Rahul-2005-git/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul-2005-git/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Rahul-2005-git/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Rahul-2005-git/Leetcode/tree/master/0392-is-subsequence) |
@@ -281,6 +283,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rahul-2005-git/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
