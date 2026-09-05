@@ -56,6 +56,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rahul-2005-git/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3708-longest-fibonacci-subarray](https://github.com/Rahul-2005-git/Leetcode/tree/master/3708-longest-fibonacci-subarray) |
+| [3904-smallest-stable-index-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Rahul-2005-git/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2485-find-the-pivot-integer](https://github.com/Rahul-2005-git/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
