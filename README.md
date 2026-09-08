@@ -11,6 +11,7 @@
 | [0031-next-permutation](https://github.com/Rahul-2005-git/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rahul-2005-git/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Rahul-2005-git/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Rahul-2005-git/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Rahul-2005-git/Leetcode/tree/master/0053-maximum-subarray) |
@@ -212,6 +213,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rahul-2005-git/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Rahul-2005-git/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Rahul-2005-git/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rahul-2005-git/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rahul-2005-git/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rahul-2005-git/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Rahul-2005-git/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rahul-2005-git/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rahul-2005-git/Leetcode/tree/master/0055-jump-game) |
@@ -290,6 +293,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rahul-2005-git/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Rahul-2005-git/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Rahul-2005-git/Leetcode/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/Rahul-2005-git/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rahul-2005-git/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -367,6 +371,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rahul-2005-git/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
