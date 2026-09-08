@@ -169,6 +169,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rahul-2005-git/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3870-count-commas-in-range](https://github.com/Rahul-2005-git/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Linked List
 |  |
 | ------- |
