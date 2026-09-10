@@ -398,6 +398,7 @@
 | [0226-invert-binary-tree](https://github.com/Rahul-2005-git/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Rahul-2005-git/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul-2005-git/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rahul-2005-git/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -428,6 +429,7 @@
 | [0226-invert-binary-tree](https://github.com/Rahul-2005-git/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Rahul-2005-git/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul-2005-git/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rahul-2005-git/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -441,6 +443,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Rahul-2005-git/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/Rahul-2005-git/Leetcode/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul-2005-git/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rahul-2005-git/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Pigeonhole Principle
 |  |
 | ------- |
