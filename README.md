@@ -43,6 +43,7 @@
 | [0733-flood-fill](https://github.com/Rahul-2005-git/Leetcode/tree/master/0733-flood-fill) |
 | [0881-boats-to-save-people](https://github.com/Rahul-2005-git/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Rahul-2005-git/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rahul-2005-git/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0994-rotting-oranges](https://github.com/Rahul-2005-git/Leetcode/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -82,6 +83,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Rahul-2005-git/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Rahul-2005-git/Leetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Rahul-2005-git/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rahul-2005-git/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rahul-2005-git/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Rahul-2005-git/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -162,6 +164,7 @@
 | [0509-fibonacci-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahul-2005-git/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Rahul-2005-git/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rahul-2005-git/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rahul-2005-git/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1185-day-of-the-week](https://github.com/Rahul-2005-git/Leetcode/tree/master/1185-day-of-the-week) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rahul-2005-git/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -330,6 +333,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rahul-2005-git/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Rahul-2005-git/Leetcode/tree/master/0383-ransom-note) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rahul-2005-git/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rahul-2005-git/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Quickselect
@@ -367,6 +371,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Rahul-2005-git/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Rahul-2005-git/Leetcode/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rahul-2005-git/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Union-Find
 |  |
@@ -539,10 +544,12 @@
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rahul-2005-git/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rahul-2005-git/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
