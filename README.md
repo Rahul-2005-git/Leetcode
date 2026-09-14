@@ -120,6 +120,7 @@
 | [0394-decode-string](https://github.com/Rahul-2005-git/Leetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Rahul-2005-git/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rahul-2005-git/Leetcode/tree/master/0415-add-strings) |
+| [0556-next-greater-element-iii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Rahul-2005-git/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rahul-2005-git/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -169,6 +170,7 @@
 | [0415-add-strings](https://github.com/Rahul-2005-git/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Rahul-2005-git/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/0509-fibonacci-number) |
+| [0556-next-greater-element-iii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahul-2005-git/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Rahul-2005-git/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rahul-2005-git/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -236,6 +238,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Rahul-2005-git/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Rahul-2005-git/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Rahul-2005-git/Leetcode/tree/master/0392-is-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Rahul-2005-git/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/Rahul-2005-git/Leetcode/tree/master/0881-boats-to-save-people) |
