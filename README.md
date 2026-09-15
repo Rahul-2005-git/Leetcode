@@ -33,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/Rahul-2005-git/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rahul-2005-git/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Rahul-2005-git/Leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Rahul-2005-git/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Rahul-2005-git/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -254,6 +255,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rahul-2005-git/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rahul-2005-git/Leetcode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Rahul-2005-git/Leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Rahul-2005-git/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rahul-2005-git/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -410,6 +412,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Rahul-2005-git/Leetcode/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Tree
 |  |
