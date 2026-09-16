@@ -26,6 +26,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Rahul-2005-git/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Rahul-2005-git/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Rahul-2005-git/Leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Rahul-2005-git/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Rahul-2005-git/Leetcode/tree/master/0204-count-primes) |
@@ -306,6 +307,7 @@
 | [0055-jump-game](https://github.com/Rahul-2005-git/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Rahul-2005-git/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Rahul-2005-git/Leetcode/tree/master/0135-candy) |
 | [0881-boats-to-save-people](https://github.com/Rahul-2005-git/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1927-sum-game](https://github.com/Rahul-2005-git/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
