@@ -39,6 +39,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Rahul-2005-git/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rahul-2005-git/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0416-partition-equal-subset-sum](https://github.com/Rahul-2005-git/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Rahul-2005-git/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -293,6 +294,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Rahul-2005-git/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Rahul-2005-git/Leetcode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Rahul-2005-git/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/0509-fibonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rahul-2005-git/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Divide and Conquer
@@ -599,4 +601,12 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rahul-2005-git/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Rahul-2005-git/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Rahul-2005-git/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
