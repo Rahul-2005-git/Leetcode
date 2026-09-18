@@ -65,6 +65,7 @@
 | [1672-richest-customer-wealth](https://github.com/Rahul-2005-git/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Rahul-2005-git/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rahul-2005-git/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -391,6 +392,7 @@
 | [0566-reshape-the-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rahul-2005-git/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Rahul-2005-git/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Design
 |  |
@@ -431,6 +433,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Rahul-2005-git/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rahul-2005-git/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahul-2005-git/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Rahul-2005-git/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting Sort
 |  |
 | ------- |
