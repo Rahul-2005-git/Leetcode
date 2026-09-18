@@ -100,6 +100,7 @@
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Rahul-2005-git/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rahul-2005-git/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rahul-2005-git/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rahul-2005-git/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rahul-2005-git/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -133,6 +134,7 @@
 | [0556-next-greater-element-iii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Rahul-2005-git/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rahul-2005-git/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rahul-2005-git/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1927-sum-game](https://github.com/Rahul-2005-git/Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -277,6 +279,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rahul-2005-git/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rahul-2005-git/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rahul-2005-git/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rahul-2005-git/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -316,6 +319,7 @@
 | [0134-gas-station](https://github.com/Rahul-2005-git/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Rahul-2005-git/Leetcode/tree/master/0135-candy) |
 | [0881-boats-to-save-people](https://github.com/Rahul-2005-git/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rahul-2005-git/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Rahul-2005-git/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
