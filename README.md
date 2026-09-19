@@ -28,6 +28,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Rahul-2005-git/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Rahul-2005-git/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Rahul-2005-git/Leetcode/tree/master/0135-candy) |
+| [0149-max-points-on-a-line](https://github.com/Rahul-2005-git/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Rahul-2005-git/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Rahul-2005-git/Leetcode/tree/master/0204-count-primes) |
@@ -85,6 +86,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Rahul-2005-git/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Rahul-2005-git/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Rahul-2005-git/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/Rahul-2005-git/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Rahul-2005-git/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rahul-2005-git/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -182,6 +184,7 @@
 | [0066-plus-one](https://github.com/Rahul-2005-git/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rahul-2005-git/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Rahul-2005-git/Leetcode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/Rahul-2005-git/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Rahul-2005-git/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Rahul-2005-git/Leetcode/tree/master/0258-add-digits) |
@@ -598,11 +601,13 @@
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Rahul-2005-git/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rahul-2005-git/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Rahul-2005-git/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rahul-2005-git/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Floyd's Cycle Finding Algorithm
@@ -625,4 +630,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Rahul-2005-git/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Rahul-2005-git/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
