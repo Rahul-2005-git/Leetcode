@@ -57,6 +57,7 @@
 | [0881-boats-to-save-people](https://github.com/Rahul-2005-git/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Rahul-2005-git/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rahul-2005-git/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0962-maximum-width-ramp](https://github.com/Rahul-2005-git/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [0994-rotting-oranges](https://github.com/Rahul-2005-git/Leetcode/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -275,6 +276,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Rahul-2005-git/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/Rahul-2005-git/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0962-maximum-width-ramp](https://github.com/Rahul-2005-git/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rahul-2005-git/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -359,6 +361,7 @@
 | [0394-decode-string](https://github.com/Rahul-2005-git/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0962-maximum-width-ramp](https://github.com/Rahul-2005-git/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rahul-2005-git/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Memoization
 |  |
@@ -441,6 +444,7 @@
 | [0042-trapping-rain-water](https://github.com/Rahul-2005-git/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0962-maximum-width-ramp](https://github.com/Rahul-2005-git/Leetcode/tree/master/0962-maximum-width-ramp) |
 ## Queue
 |  |
 | ------- |
