@@ -76,6 +76,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rahul-2005-git/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rahul-2005-git/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rahul-2005-git/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3708-longest-fibonacci-subarray](https://github.com/Rahul-2005-git/Leetcode/tree/master/3708-longest-fibonacci-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -217,6 +218,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rahul-2005-git/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rahul-2005-git/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rahul-2005-git/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
