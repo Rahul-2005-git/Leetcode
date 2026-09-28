@@ -150,6 +150,7 @@
 | [0415-add-strings](https://github.com/Rahul-2005-git/Leetcode/tree/master/0415-add-strings) |
 | [0556-next-greater-element-iii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rahul-2005-git/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rahul-2005-git/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Rahul-2005-git/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rahul-2005-git/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -375,6 +376,7 @@
 | [0496-next-greater-element-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0962-maximum-width-ramp](https://github.com/Rahul-2005-git/Leetcode/tree/master/0962-maximum-width-ramp) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rahul-2005-git/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rahul-2005-git/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rahul-2005-git/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rahul-2005-git/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -626,6 +628,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rahul-2005-git/Leetcode/tree/master/0022-generate-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rahul-2005-git/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rahul-2005-git/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rahul-2005-git/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Euclidean Algorithm
