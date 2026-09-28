@@ -19,9 +19,7 @@ class Solution {
                 depth--;
                  res[i]=depth%2;
             }
-            else{
-                 res[i]=depth%2;
-            }
+            
             i++;
         }
         return res;
