@@ -152,6 +152,7 @@
 | [0415-add-strings](https://github.com/Rahul-2005-git/Leetcode/tree/master/0415-add-strings) |
 | [0556-next-greater-element-iii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rahul-2005-git/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rahul-2005-git/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rahul-2005-git/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Rahul-2005-git/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -355,6 +356,7 @@
 | [0134-gas-station](https://github.com/Rahul-2005-git/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Rahul-2005-git/Leetcode/tree/master/0135-candy) |
 | [0881-boats-to-save-people](https://github.com/Rahul-2005-git/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rahul-2005-git/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rahul-2005-git/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Rahul-2005-git/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rahul-2005-git/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -380,6 +382,7 @@
 | [0394-decode-string](https://github.com/Rahul-2005-git/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rahul-2005-git/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0962-maximum-width-ramp](https://github.com/Rahul-2005-git/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rahul-2005-git/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rahul-2005-git/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -634,6 +637,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rahul-2005-git/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rahul-2005-git/Leetcode/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rahul-2005-git/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rahul-2005-git/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rahul-2005-git/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rahul-2005-git/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
