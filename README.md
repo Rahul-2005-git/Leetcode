@@ -684,4 +684,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Rahul-2005-git/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Rahul-2005-git/Leetcode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
