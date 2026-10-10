@@ -16,6 +16,7 @@
 | [0045-jump-game-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Rahul-2005-git/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Rahul-2005-git/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rahul-2005-git/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Rahul-2005-git/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Rahul-2005-git/Leetcode/tree/master/0066-plus-one) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rahul-2005-git/Leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Rahul-2005-git/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/Rahul-2005-git/Leetcode/tree/master/0289-game-of-life) |
@@ -430,6 +432,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rahul-2005-git/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Rahul-2005-git/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Rahul-2005-git/Leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Rahul-2005-git/Leetcode/tree/master/0289-game-of-life) |
