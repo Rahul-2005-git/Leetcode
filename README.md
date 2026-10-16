@@ -702,6 +702,7 @@
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/Rahul-2005-git/Leetcode/tree/master/1114-print-in-order) |
+| [1195-fizz-buzz-multithreaded](https://github.com/Rahul-2005-git/Leetcode/tree/master/1195-fizz-buzz-multithreaded) |
 ## Binary Indexed Tree
 |  |
 | ------- |
