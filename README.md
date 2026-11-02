@@ -632,6 +632,7 @@
 | [1934-confirmation-rate](https://github.com/Rahul-2005-git/Leetcode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Rahul-2005-git/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Rahul-2005-git/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3421-find-students-who-improved](https://github.com/Rahul-2005-git/Leetcode/tree/master/3421-find-students-who-improved) |
 ## Trie
 |  |
 | ------- |
