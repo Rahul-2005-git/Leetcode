@@ -91,6 +91,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3904-smallest-stable-index-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Rahul-2005-git/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -364,6 +365,7 @@
 | [0509-fibonacci-number](https://github.com/Rahul-2005-git/Leetcode/tree/master/0509-fibonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rahul-2005-git/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rahul-2005-git/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -390,6 +392,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul-2005-git/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rahul-2005-git/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Rahul-2005-git/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
